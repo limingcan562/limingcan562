@@ -25,6 +25,7 @@
     <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
     <img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=61DAFB" />
     <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
+    <img src="https://img.shields.io/badge/nuxt-35495E?style=for-the-badge&logo=nuxt.js&logoColor=4FC08D">
     </br>
     <img src="https://img.shields.io/badge/Webpack-informational?style=for-the-badge&logo=webpack&logoColor=white">
     <img src="https://img.shields.io/badge/Rollup-orange?style=for-the-badge&logo=rollup.js&logoColor=white">
@@ -33,4 +34,5 @@
     <img src="https://img.shields.io/badge/Git-f14e32?style=for-the-badge&logo=Git&logoColor=white">
     <img src="https://img.shields.io/badge/yarn-0688f3?style=for-the-badge&logo=yarn&logoColor=white">
     <img src="https://img.shields.io/badge/npm-c12127?style=for-the-badge&logo=npm&logoColor=white">
+    
 </div>

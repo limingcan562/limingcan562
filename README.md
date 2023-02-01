@@ -2,10 +2,10 @@
 
 <img src="https://readme-typing-svg.demolab.com/?lines=limingcan%20%2B%3D%20work%20hard%20%2Blucky&duration=7000" />
 
-- Front End Development Engineer
-- Love sharing
-- Love learning
-- Love sports
+- **Front End Development Engineer**
+- **Love learning**
+- **Love sharing**
+- **Love sports**
 
 <img src="https://visitor-badge.glitch.me/badge?page_id=limingcan526.limingcan562" />
 

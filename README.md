@@ -1,16 +1,35 @@
-### Hi there 👋
+<h2>👋Hi, I am limingcan </h2>
 
-<!--
-**limingcan562/limingcan562** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://readme-typing-svg.demolab.com/?lines=limingcan%20%2B%3D%20work%20hard%20%2Blucky&duration=7000" />
 
-Here are some ideas to get you started:
+- Front End Development Engineer
+- Love sharing
+- Love learning
+- Love sports
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://visitor-badge.glitch.me/badge?page_id=limingcan526.limingcan562" />
+
+
+<h2>📊Analytics</h2>
+    <img src="https://github-readme-stats.vercel.app/api?username=limingcan562&hide_title=false&include_all_commits=true&hide_border=false&show_icons=true&theme=onedark" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=limingcan562&layout=compact&hide_title=false&theme=onedark" />
+
+<h2>🚀Language && Tools</h2>
+<div algin="center">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+    <img src="https://img.shields.io/badge/-LESS-1d365d?style=for-the-badge&logo=less&logoColor=white"/>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+    </br>
+    <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
+    <img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=61DAFB" />
+    <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
+    </br>
+    <img src="https://img.shields.io/badge/Webpack-informational?style=for-the-badge&logo=webpack&logoColor=white">
+    <img src="https://img.shields.io/badge/Rollup-orange?style=for-the-badge&logo=rollup.js&logoColor=white">
+    <img src="https://img.shields.io/badge/Babel-black?style=for-the-badge&logo=babel&logoColor=yellow">
+    </br>
+    <img src="https://img.shields.io/badge/Git-f14e32?style=for-the-badge&logo=Git&logoColor=white">
+    <img src="https://img.shields.io/badge/yarn-0688f3?style=for-the-badge&logo=yarn&logoColor=white">
+    <img src="https://img.shields.io/badge/npm-c12127?style=for-the-badge&logo=npm&logoColor=white">
+</div>

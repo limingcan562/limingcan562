@@ -12,8 +12,8 @@
 
 <h2>📊Analytics</h2>
 <div>
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=limingcan562&hide_title=false&include_all_commits=true&hide_border=false&show_icons=true&theme=onedark" /><spa>&ensp;&ensp;</span>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=limingcan562&layout=compact&hide_title=false&theme=onedark" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=limingcan562&hide_title=false&include_all_commits=true&hide_border=false&show_icons=true&theme=onedark" /><spa>&ensp;&ensp;</span>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=limingcan562&layout=compact&hide_title=false&theme=onedark" />
 </div>
 
 

@@ -1,4 +1,4 @@
-<h2>👋Hi, I am Lee</h2>
+<h2>👋Hi</h2>
 
 <img src="https://readme-typing-svg.demolab.com/?lines=limingcan%20%2B%3D%20work%20hard%20%2Blucky&duration=7000" />
 

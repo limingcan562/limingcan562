@@ -7,7 +7,9 @@
 - **Love sharing**
 - **Love sports**
 
-<!-- <img src="https://visitor-badge.glitch.me/badge?page_id=limingcan526.limingcan562&left_color=red&right_color=green" /> -->
+
+<!--<img src="https://visitor-badge.glitch.me/badge?page_id=limingcan526.limingcan562&left_color=red&right_color=green" />-->
+<img style="opacity: 0;" src="https://visitor-badge.laobi.icu/badge?page_id=limingcan562&right_color=green" alt="visitor badge" />
 
 
 <h2>📊Analytics</h2>
